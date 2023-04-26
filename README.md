@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a mechanical engineering graduate with a passion for data analysis, I am optimistic about my transition into the field of data analytics. My engineering background has equipped me with a strong foundation in critical thinking, problem-solving, and analytical skills, which I believe are valuable in the data analyst role. With proficiency in tools such as SQL, Python, and Power BI, I am excited to apply my skills to tackle complex data problems and drive business growth in the organizations I work for. I am eager to contribute to the success of the industry and bring a fresh perspective to the table as a mechanical engineer turned data analyst
+As a mechanical engineer with a passion for data analysis, I am optimistic about my transition into the field of data analytics. My engineering background has equipped me with a strong foundation in critical thinking, problem-solving, and analytical skills, which I believe are valuable in the data analyst role. With proficiency in tools such as SQL, Python, and Power BI, I am excited to apply my skills to tackle complex data problems and drive business growth in the organizations I work for. I am eager to contribute to the success of the industry and bring a fresh perspective to the table as a mechanical engineer turned data analyst
 
 
 ## 🌐 Socials:
